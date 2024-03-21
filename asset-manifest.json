@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-Rocket-Launch/static/css/main.2b42a446.css",
+    "main.js": "/React-Rocket-Launch/static/js/main.26f02b44.js",
+    "static/js/453.fc57b008.chunk.js": "/React-Rocket-Launch/static/js/453.fc57b008.chunk.js",
+    "static/media/rocket-state3.gif": "/React-Rocket-Launch/static/media/rocket-state3.0cce5ae8b9d79215396c.gif",
+    "static/media/rocket-state2.gif": "/React-Rocket-Launch/static/media/rocket-state2.fb8e44cf8a488d2ffead.gif",
+    "index.html": "/React-Rocket-Launch/index.html",
+    "main.2b42a446.css.map": "/React-Rocket-Launch/static/css/main.2b42a446.css.map",
+    "main.26f02b44.js.map": "/React-Rocket-Launch/static/js/main.26f02b44.js.map",
+    "453.fc57b008.chunk.js.map": "/React-Rocket-Launch/static/js/453.fc57b008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b42a446.css",
+    "static/js/main.26f02b44.js"
+  ]
+}
